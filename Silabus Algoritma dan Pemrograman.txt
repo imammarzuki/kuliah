@@ -1,0 +1,6 @@
+Python Dasar -> Pertemuan 1 - 2
+Pandas -> Pertemuan 3 - 5 
+UTS
+Numpy -> Pertemuan 6 - 7
+Matplotlib -> Pertemuan 9 - 10
+Machine Learning 11 - 14

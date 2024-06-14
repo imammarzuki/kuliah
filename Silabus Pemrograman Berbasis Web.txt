@@ -1,0 +1,10 @@
+HTML -> Pertemuan 1 - 2
+CSS -> Pertemuan 3 - 4
+JavaScript -> Pertemuan 5-6
+Project -> Pertemuan 7
+UTS
+Bootstrap -> Pertemuan 9
+JQuery -> Pertemuan 10
+PHP -> Pertemuan 11
+MYSQL -> Pertemuan 12
+Project -> Pertemuan 13 - 14
